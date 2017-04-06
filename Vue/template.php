@@ -15,7 +15,7 @@
         <?= $contenu ?>   <!-- Élément spécifique -->
       </div>
       <footer id="piedBlog">
-        Blog réalisé avec PHP, HTML5 et CSS en MVC.
+        <p>Blog réalisé avec PHP, HTML5 et CSS en MVC - Admin : c'est par <a href="Admin/dejaInscrit.php">ICI !</a></p>
       </footer>
     </div> <!-- #global -->
   </body>
