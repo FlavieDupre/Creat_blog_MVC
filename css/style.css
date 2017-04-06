@@ -49,3 +49,8 @@ h1 {
 #txtCommentaire {
     width: 50%;
 }
+
+#piedBlog a {
+  text-decoration: none ;
+  color: white;
+}
